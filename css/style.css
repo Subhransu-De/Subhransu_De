@@ -1,0 +1,17 @@
+body {
+    background-color: whitesmoke;
+}
+
+.name {
+    font-size: 500%;
+    font-style: oblique;
+    font-family: Helvetica, Arial, sans-serif;
+    text-align: center;
+    text-shadow: 4px 4px #FF0000;
+    margin: 5% 4% 4%;
+    padding: 225px;
+    border: 10px solid blue;
+    border-style: outset;
+    border-radius: 30px;
+    box-shadow: 20px 20px 10px grey;
+}
